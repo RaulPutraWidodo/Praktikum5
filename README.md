@@ -118,7 +118,7 @@ public class Main {
 ***Kelas Programmer***: Mewarisi dari kelas ```Pegawai``` dan menambahkan atribut ```bonus```. Juga memiliki konstruktor default dan konstruktor overload. Metode ```cetakInfo()``` di-override untuk menyertakan informasi ```bonus```.
 # Output
 
-![](dok/output(3).png)
+![](dok/output (3).png)
 
 # Studi Kasus
 
@@ -292,5 +292,7 @@ Makanan: Menambahkan atribut ```tanggalKadaluarsa``` dan menampilkan tanggal kad
 ***Class KeranjangBelanja***: Mengelola daftar produk yang dibeli dan jumlah setiap produk. Metode ```tambahProduk()``` menambahkan produk jika stok mencukupi, ```hitungTotalBelanja()``` menghitung total harga, dan ```displayKeranjang()``` menampilkan isi keranjang beserta total belanja.
 
 ***Main Class***: Membuat objek dari berbagai jenis produk, menambahkannya ke ```KeranjangBelanja```, dan menampilkan total belanja serta isi keranjang.
+
 # Output
-![](dok/output((4).png)
+
+![](dok/output (4).png)
