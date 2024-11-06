@@ -118,7 +118,8 @@ public class Main {
 ***Kelas Programmer***: Mewarisi dari kelas ```Pegawai``` dan menambahkan atribut ```bonus```. Juga memiliki konstruktor default dan konstruktor overload. Metode ```cetakInfo()``` di-override untuk menyertakan informasi ```bonus```.
 # Output
 
-![](dok/output (3).png)
+![output (3)](https://github.com/user-attachments/assets/59fb6c8b-110c-41e1-aa1c-54867421fdc1)
+
 
 # Studi Kasus
 
@@ -295,4 +296,5 @@ Makanan: Menambahkan atribut ```tanggalKadaluarsa``` dan menampilkan tanggal kad
 
 # Output
 
-![](dok/output (4).png)
+![output (4)](https://github.com/user-attachments/assets/f6ace4df-9f6f-45f0-88e3-d4000c73fc09)
+
